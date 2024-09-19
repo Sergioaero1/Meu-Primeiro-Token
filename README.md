@@ -1,4 +1,4 @@
-# Meu ptimeiro token
+# Meu primeiro token
 
 ## Enviando meu projeto  da criação do meu primeiro token.
 
