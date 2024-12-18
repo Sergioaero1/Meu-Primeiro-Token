@@ -6,5 +6,4 @@ Aula muito bem entendida. Tive que pesquisar por fora para conseguir fazer o "De
 
 Progredindo cada dia mais. Vamoooo!!!  
 
-obg DIO:
-[https://www.dio.me/en]
+obg [DIO](https://www.dio.me/en)
